@@ -1,3 +1,2 @@
-# Snake-Game
-This is a snake game created in python. The source code is taken from famous book "Making games with python and pygame" 
-by Al Sweigart for learning purpose.
+# Tic-Tac-Toe
+This is my first python project I did after learning some basic stuff in python 3 from a MOOC on udemy.com .
